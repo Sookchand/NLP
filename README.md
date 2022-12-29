@@ -37,7 +37,7 @@ Brunel University London
 
 
 ## Tech Stack
-This project did not require a server or client. The technologies used were only Python packages. The packages used were nltk and sklearn.naive_bayes. The nltk package was used to process the movie reviews from the NLTK corpus and the sklearn.naive_bayes package was used to process the text features such as tf-idf and train the naive Bayes model for prediction.
+The technologies used were only Python packages. The packages used were nltk and sklearn.naive_bayes. The nltk package was used to process the movie reviews from the NLTK corpus and the sklearn.naive_bayes package was used to process the text features such as tf-idf and train the naive Bayes model for prediction.
 
 
 ## Lessons Learned
