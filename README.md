@@ -4,6 +4,7 @@
 This project was to carry out sentiment analysis of movie reviews using a Naive Bayes classification model. The data set used was the movie reviews from the NLTK corpus. The model was used to classify the movie reviews into two classes - positive and negative.
 
 The steps taken to carry out the sentiment analysis were as follows: 
+
 1.Downloading the required packages and data set 
 
 2.Extracting the file ids for the positive and negative reviews
